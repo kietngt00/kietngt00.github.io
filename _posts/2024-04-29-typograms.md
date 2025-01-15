@@ -14,9 +14,12 @@ This is an example post with some [typograms](https://github.com/google/typogram
 ```typograms
 +----+
 |    |---> My first diagram!
+
 +----+
+
 ```
-````
+
+```
 
 Which generates:
 
